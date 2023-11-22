@@ -1,5 +1,11 @@
+import Landing from './pages/landing/Landing';
+
 function App() {
-  return <div>millennium</div>;
+  return (
+    <>
+      <Landing />
+    </>
+  );
 }
 
 export default App;
